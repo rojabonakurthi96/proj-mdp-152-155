@@ -17,8 +17,12 @@
 <label>
 <input type="radio" name="r1" value="add" />addition
 <br />
-</label>       
-</div>
+</label>
+ 
+<label>
+<input type="radio" name="r1" value="sub" />difference
+<br />
+</label>          
 <input type="submit" value="submit" />
 </form>
 </body>
