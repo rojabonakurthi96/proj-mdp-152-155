@@ -23,7 +23,6 @@
 <input type="radio" name="r1" value="sub" />difference
 <br />
 </label>          
-</div>
 <input type="submit" value="submit" />
 </form>
 </body>
